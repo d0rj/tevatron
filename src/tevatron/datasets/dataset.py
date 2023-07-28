@@ -12,6 +12,7 @@ PROCESSOR_INFO = {
     'Tevatron/wikipedia-squad': DEFAULT_PROCESSORS,
     'Tevatron/scifact': DEFAULT_PROCESSORS,
     'Tevatron/msmarco-passage': DEFAULT_PROCESSORS,
+    'd0rj/dpr_data_draft': DEFAULT_PROCESSORS,
     'json': [None, None, None]
 }
 
