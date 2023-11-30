@@ -7,6 +7,18 @@ ensures Tevatron's superior performance.
 *Tevatron is currently under initial development stage. We will be actively adding new features and API changes
 may happen. Suggestions, feature requests and PRs are welcomed.*
 
+### Быстрый запуск
+
+```bash
+cd src
+```
+
+```bash
+sh dpr.sh
+```
+
+Редактируйте параметры оттуда.
+
 ## Features
 - Command line interface for dense retriever training/encoding and dense index search.
 - Flexible and extendable Pytorch retriever models. 
